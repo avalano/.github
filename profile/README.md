@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../avalanocover.png" />
+<img src="https://raw.githubusercontent.com/avalano/avalano-overview/main/cover.png" />
 </p>
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/github/license/avalano/avalano-overview">
