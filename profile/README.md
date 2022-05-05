@@ -1,12 +1,10 @@
-## Hi there 👋
+<p align="center">
+<img src="../avalanocover.png" />
+</p>
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/avalano/avalano-overview">
+    <img alt="Discord" src="https://img.shields.io/discord/961241590452613163">
+	<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/eludadev/css-docs?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/eludadev?style=social">
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
